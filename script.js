@@ -23,7 +23,6 @@ function FamilyMember(name, level, gender, favorite_food, favorite_series, favor
 
 function TogglePicture(image) {
     document.getElementById("pict").src = image;
-
 }
 
 
